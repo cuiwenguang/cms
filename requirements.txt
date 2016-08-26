@@ -1,0 +1,9 @@
+django==1.8.2
+MYSQL-python==1.2.5
+django-tastypie
+django-oauth-toolkit==0.10.0
+django-cors-headers
+django-tastypie-oauth
+django-socketio
+requests
+whoosh
