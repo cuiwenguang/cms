@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'g_cms_db',
         'USER': 'root',
         'PASSWORD': '123456',
-        'HOST': '10.20.22.131',
+        'HOST': '127.0.0.1',
         'PORT':3306
     }
 }
@@ -115,5 +115,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-APP_ID =''
-APP_SECRET=''
+APP_ID ='QQusvdSu3bBF83kXvRX3DGhphI9bM6lmuJfEz3Jd'
+APP_SECRET='Yxi2VcxZcZCIPiuEGTDKS59SfXBb65siXN4yfF455KLw5ARrmdMj88U1mfeIAbH8ygfs2Fa1RD7ThcXIW59avx02jxO5HFe5wvaL8gDhaBWOYLOHuoWQ2PrmTMHkN8GX'

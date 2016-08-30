@@ -1,4 +1,4 @@
-django==1.8.2
+django==1.8.6
 MYSQL-python==1.2.5
 django-tastypie
 django-oauth-toolkit==0.10.0
@@ -7,3 +7,4 @@ django-tastypie-oauth
 django-socketio
 requests
 whoosh
+uuid
